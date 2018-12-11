@@ -123,6 +123,9 @@
                         <sectlinks></sectlinks>
                         <sectanchors></sectanchors>
                         <generated>${generated.asciidoc.directory}</generated>
+                        <pdf-fontsdir>fonts</pdf-fontsdir>
+                        <pdf-stylesdir>themes</pdf-stylesdir>
+                        <pdf-style>cn</pdf-style>
                     </attributes>
                 </configuration>
 
